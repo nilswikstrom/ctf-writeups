@@ -1,5 +1,5 @@
 # ctf-writeups
-Writeups for CTF challenges
+This repository is for writeups of various CTF challenges.
 
 ## License
 
